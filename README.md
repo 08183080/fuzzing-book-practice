@@ -7,3 +7,4 @@ fuzzing book practice
     - [x] pip install ipykernel
     - [x] 手写最简单的 a simple fuzzer
     - [x] 运行 fuzzer 文件
+    - [x] 运行 code coverage

@@ -12,3 +12,4 @@ fuzzing book practice
     - [x] 解决 ipynb 函数导入问题
     - [x] 实验环境推荐是在 wsl 进行
     - [x] 重新读了一下 coverage 的文件，gcc 可以开启 coverage 选项，用 gcov 收集覆盖率
+    - [x] 将 greybox 看完了，它也是实现 AFL 系列的算法 抄袭
